@@ -1,4 +1,4 @@
-# India-Village-location-API-Platform
+# India-Village-Data-Analysis
 
 Project Title
 India Village Location API Platform
